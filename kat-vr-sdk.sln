@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kat-vr-sdk", "kat-vr-sdk.pyproj", "{80B2F15B-6422-446C-BF23-E3FE052E7239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80B2F15B-6422-446C-BF23-E3FE052E7239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B2F15B-6422-446C-BF23-E3FE052E7239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BAD93B2-0E50-4FE5-849B-519494D6D174}
+	EndGlobalSection
+EndGlobal
